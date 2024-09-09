@@ -39,7 +39,7 @@ class Config(object):
     
     DEF_WATER_MARK_FILE = "Team SAT"
     
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://sparklingmind42:<5gIXMTGulGFQkhDv>@cluster0.ckmwyed.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://amitsingh2005amitb:<hEzWJZsvUDE8iZAu>@cluster0.ouwnv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
     
     SESSION_NAME = os.environ.get("SESSION_NAME", "Team SAT")
     
