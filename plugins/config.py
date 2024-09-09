@@ -37,11 +37,11 @@ class Config(object):
     
     PROCESS_MAX_TIMEOUT = 0
     
-    DEF_WATER_MARK_FILE = "Team SAT"
+    DEF_WATER_MARK_FILE = "UploadLinkToFileBot"
     
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://amitsingh2005amitb:<hEzWJZsvUDE8iZAu>@cluster0.ouwnv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://amitsingh2005amitb:L7AmsjlVsgXemDoU@cluster0.ouwnv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
     
-    SESSION_NAME = os.environ.get("SESSION_NAME", "TeamSAT")
+    SESSION_NAME = os.environ.get("SESSION_NAME", "UploadLinkToFileBot")
     
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002189435447"))
     
