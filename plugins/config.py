@@ -37,11 +37,11 @@ class Config(object):
     
     PROCESS_MAX_TIMEOUT = 0
     
-    DEF_WATER_MARK_FILE = "LegendSources"
+    DEF_WATER_MARK_FILE = "Team SAT"
     
     DATABASE_URL = os.environ.get("DATABASE_URL", "")
     
-    SESSION_NAME = os.environ.get("SESSION_NAME", "LegendSources")
+    SESSION_NAME = os.environ.get("SESSION_NAME", "Team SAT")
     
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
     
