@@ -13,8 +13,8 @@
     "remote",
     "uploader"
   ],
-  "website": "https://t.me/LegendSources",
-  "repository": "https://github.com/venomxdevil/URLUPLOADER",
+  "website": "https://t.me/Team_sat_25",
+  "repository": "https://github.com/Sparklingmind46/URLUPLOADER_SAT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
