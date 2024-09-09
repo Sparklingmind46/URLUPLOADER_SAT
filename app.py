@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Legend Sources!'
+    return 'Team SAT!'
 
 if __name__ == '__main__':
     # Run the Flask app on port 80
